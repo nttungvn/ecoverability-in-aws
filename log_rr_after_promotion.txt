@@ -1,0 +1,9 @@
+MySQL [test]> insert into t1 values("name2");
+ERROR 2006 (HY000): MySQL server has gone away
+No connection. Trying to reconnect...
+Connection id:    9
+Current database: test
+
+Query OK, 1 row affected (0.02 sec)
+
+MySQL [test]> 
